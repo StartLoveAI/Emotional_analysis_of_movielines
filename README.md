@@ -1,0 +1,2 @@
+# Emotional_analysis_of_movielines
+基于nltk+深度神经网络实现电影台词情感分析
